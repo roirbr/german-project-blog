@@ -85,8 +85,11 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;  
 }
+.image-container {
+  text-align: center;
+}
 .blog-img {
-  width: 300px;
+  width: 500px;
 }
 
 /**
