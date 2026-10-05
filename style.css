@@ -85,6 +85,9 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;  
 }
+.block-img {
+  width: 300px;
+}
 
 /**
  * Layout styles
