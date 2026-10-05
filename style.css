@@ -86,10 +86,11 @@ blockquote p:last-child {
   margin-bottom: 0;  
 }
 .image-container {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 .blog-img {
-  width: 500px;
+  width: 600px;
 }
 
 /**
@@ -99,7 +100,7 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(bg.jpg) center center no-repeat fixed;
+  background:url(phflag.jpg) center center no-repeat fixed;
   background-size:cover;
 }
 body {
