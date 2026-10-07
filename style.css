@@ -93,6 +93,9 @@ blockquote p:last-child {
   width: 600px;
   margin-bottom: 1.5em;
 }
+.intro {
+  margin-bottom: 1em;
+}
 
 /**
  * Layout styles
